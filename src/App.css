@@ -39,8 +39,7 @@ select {
   border: 1px solid #f2c4c4;
   border-radius: 10px;
   font-size: 14px;
-  background-color:rgb(244, 237, 237);
-
+  background-color: aliceblue;
 }
 
 input[type="radio"],
