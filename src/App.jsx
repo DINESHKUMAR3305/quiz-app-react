@@ -120,7 +120,7 @@ const questions = [
 
 const App = () => {
     const [currentPage, setCurrentPage] = useState(0);
-    const [timeRemaining, setTimeRemaining] = useState(180); // 3 minutes in seconds
+    const [timeRemaining, setTimeRemaining] = useState(180); 
     const [userAnswers, setUserAnswers] = useState({});
     const [quizCompleted, setQuizCompleted] = useState(false);
     const [shuffledQuestions, setShuffledQuestions] = useState([]);
